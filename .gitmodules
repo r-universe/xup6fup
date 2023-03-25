@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "etma"]
+	path = etma
+	url = https://github.com/cran/etma
+	shallow = true
+	registered = true
